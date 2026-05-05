@@ -1,5 +1,7 @@
 # 🚀 Data Eclipse
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-dataeclipse.netlify.app-blue?style=for-the-badge&logo=netlify)](https://dataeclipse.netlify.app/)
+
 ### Verifiable Secure Data Erasure System
 
 ---
