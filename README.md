@@ -1,6 +1,7 @@
 # 🚀 Data Eclipse
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-dataeclipse.netlify.app-blue?style=for-the-badge&logo=netlify)](https://dataeclipse.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-dataeclipse.netlify.app-blue?style=for-the-badge&logo=netlify)](https://dataeclipse.netlify.app/)  
+<a href="https://dataeclipse.netlify.app/"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://dataeclipse.netlify.app/" alt="Scan to open Live Demo" width="150" height="150" style="margin-top: 10px; border-radius: 8px;" /></a>
 
 ### Verifiable Secure Data Erasure System
 
