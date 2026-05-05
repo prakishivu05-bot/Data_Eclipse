@@ -1,0 +1,16 @@
+{
+  "name": "data-eclipse-blockchain",
+  "version": "1.0.0",
+  "description": "Hardhat project for Data Eclipse blockchain proofs",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3"
+  }
+}
